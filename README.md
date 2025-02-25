@@ -36,11 +36,7 @@ Loops are used to iterate over a list of items and perform a task for each item 
     git clone <repository_url>
     ```
 
-2. Navigate to the project directory:
-
-    ```bash
-    cd ansible-project
-    ```
+2. Navigate to the project directory
 
 3. Update the inventory files (`inventory.ini`) with the IP addresses or hostnames of your CentOS 9 servers.
 
